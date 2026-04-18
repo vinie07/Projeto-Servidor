@@ -2,12 +2,12 @@
 
 | categoria      |                   nome                    |
 |----------------|-------------------------------------------|
-| Processador    | Xeon alguma coisa                         |
+| Processador    | Xeon E3 1230 v2                           |
 | RAM            | 8gb ddr3 (atualizar pra 16)               |
-| ARMAZENAMENTO  | ssd no sistema + hd pra nas               |
-| placa de video | nao sei o nome mas é nvidia antiga g8400s |
+| ARMAZENAMENTO  | ssd + hdd                                 |
+| placa de video | g8400s                                    |
 | placa mae      | generica                                  |
-| Fonte          | MSI 650                                   |
-| Gabinete       | generico                                  |
-| Fan            | a que vier na caixa do xeon/generica intel|
+| Fonte          | MSI 650w                                  |
+| Gabinete       | TGT legion                                |
+| Fan            | generica intel                            |
 | SO             | Debian                                    |
