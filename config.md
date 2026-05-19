@@ -10,6 +10,6 @@
 | Fonte          | MSI 650w                                  |
 | Gabinete       | TGT legion                                |
 | Fan            | generica intel                            |
-| SO             | Debian                                    |
+| SO             | Zimaos+                                   |
 | PCIE TO SATA   | generica (serve pra usar o pcie-1x e poder ter mais entrada sata |
 
